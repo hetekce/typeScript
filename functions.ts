@@ -38,3 +38,15 @@ function sum5(x:number, y?:number):number{ //? yazıyorsa y kesin atanmak zorund
 
 console.log(sum5(5)) //5 sonucu çıkar
 console.log(sum5(5,3)) //8 sonucu çıkar
+
+
+//rest functions
+//aynı tipte birden fazla girdi olacaksa ve bunun sayısını bilmiyorsak
+//bu şekilde rest fonksiyonu yardımı ile syntax oluşturabiliriz.
+//join methodu aralara parantez içerisindeki yazılı ifadeyi
+// koyarak dizi elemanlarını birleştirir!!
+function invitePeople(firstGuest:string,...others:string[]):string{
+    return firstGuest +" "+ others.join(" ");
+}
+
+console.log(invitePeople("Emre","Mustafa","Mesut","Yusuf"))
