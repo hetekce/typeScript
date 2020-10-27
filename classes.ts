@@ -85,3 +85,8 @@ class Personal2 extends Person2{
 let customer2 = new Customer2();
 customer2.name  = "Emre Tekce";
 console.log(customer2.name) ;
+
+
+
+customer2.name  = "Emre Tekce";
+console.log(customer2.name) ;

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="367df231-6a09-458d-bb27-1b5e859ff939" name="Default Changelist" comment="deneme">
+      <change beforePath="$PROJECT_DIR$/classes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/classes.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/intro.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/functions.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1jFXFQlB3nu92xva3kt8M7Zakxn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/bootstrapWorks" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\exqua\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\202.7660.23\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="367df231-6a09-458d-bb27-1b5e859ff939" name="Default Changelist" comment="" />
+      <created>1603400709003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603400709003</updated>
+      <workItem from="1603400710104" duration="3031000" />
+      <workItem from="1603471074929" duration="1583000" />
+      <workItem from="1603663043224" duration="3101000" />
+      <workItem from="1603722614361" duration="2102000" />
+      <workItem from="1603812174060" duration="720000" />
+    </task>
+    <task id="LOCAL-00001" summary="datatypes has been studied">
+      <created>1603402945906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603402945906</updated>
+    </task>
+    <task id="LOCAL-00002" summary="define functions and parameters">
+      <created>1603472655521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603472655521</updated>
+    </task>
+    <task id="LOCAL-00003" summary="classes, encapsulation, getters, setters, inheritance, public, protected, private">
+      <created>1603666148747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603666148747</updated>
+    </task>
+    <task id="LOCAL-00004" summary="deneme">
+      <created>1603812201608</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603812201608</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/intro.js" />
+        <option value="$PROJECT_DIR$/functions.js" />
+        <option value="$PROJECT_DIR$/classes.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="datatypes has been studied" />
+    <MESSAGE value="define functions and parameters" />
+    <MESSAGE value="classes, encapsulation, getters, setters, inheritance, public, protected, private" />
+    <MESSAGE value="deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="907" y="239" key="#Notifications" timestamp="1603665869423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="907" y="239" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1603665869423" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603400895339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603400895339" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603722691738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603722691738" />
+    <state x="551" y="162" key="Vcs.Push.Dialog.v2" timestamp="1603812206088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="162" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603812206088" />
+  </component>
+</project>
