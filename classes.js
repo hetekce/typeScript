@@ -108,3 +108,9 @@ var Personal2 = /** @class */ (function (_super) {
 var customer2 = new Customer2();
 customer2.name = "Emre Tekce";
 console.log(customer2.name);
+customer2.name = "Yusuf Tekce";
+console.log(customer2.name);
+customer2.name = "Mustafa Tekce";
+console.log(customer2.name);
+customer2.name = "ismail Tekce";
+console.log(customer2.name);

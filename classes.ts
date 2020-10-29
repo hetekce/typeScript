@@ -88,5 +88,11 @@ console.log(customer2.name) ;
 
 
 
-customer2.name  = "Emre Tekce";
+customer2.name  = "Yusuf Tekce";
+console.log(customer2.name) ;
+
+customer2.name  = "Mustafa Tekce";
+console.log(customer2.name) ;
+
+customer2.name  = "ismail Tekce";
 console.log(customer2.name) ;
